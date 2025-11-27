@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Develop1
+=======
+Develop2
+>>>>>>> develop2
