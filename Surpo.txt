@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Changed
-=======
-Develop_new
->>>>>>> new_develop
